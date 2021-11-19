@@ -1,1 +1,5 @@
 # Foreword
+
+The assessment was originally given as a Google Doc which the interviewer and I went through together. His process was that first we have an informal discussion about what the answers *might* be, and then give me time to actually get my thoughts together and write something down. Software architecture is something I have no formal training in so the questions did throw me off a little. Luckily, the interviewer understood when I explained that to him. We considered that perhaps the wording of the question was a little off and that I may have learned about these things under different terminoligy. Doing some research later on helped me relate these questions back to my own experiences...and learn some things along the way.
+
+For my submitted answers, I would start with the 'textbook' information that anybody can retrieve from Google. Then I would describe my personal experience and prior knowledge of the concepts at hand.
