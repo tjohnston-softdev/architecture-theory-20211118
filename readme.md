@@ -3,9 +3,9 @@
 This is my submission for an assessment I was asked to complete during an interview for a software development position. What is unique about this assessment was that most of the questions were related to software architecture theory. The interviewer placed more focus on general concepts rather than implementing a specific thing using specific technologies. The questions allowed a certain degree of creativity as to how you answer them.
 
 The submission was originally made on 18 November 2021. It was converted to markdown on 19 November 2021 and shared publicly on xx November 2021.
-
-[Assessment Submission](./submission.md)  
-[Foreword](./foreword.md)
+ 
+[Foreword](./foreword.md)  
+[Assessment Submission](./submission.md)
 
 ---
 
