@@ -16,5 +16,3 @@ This submission is licensed under CC-BY 4.0. You can do whatever you want with i
 The 3rd-party information used when researching my answers is legal property of their respective owners and have been referenced at the end of the submission document. Sources directly referred to in the answer text have been hyperlinked but not all sources are mentioned this way. There is a full 'References' section at the end.
 
 The interviewer has given me explicit permission to share my submission ("I don't care, its your IP"). However, I have decided not to disclose the name of the company for privacy reasons.
-
----
